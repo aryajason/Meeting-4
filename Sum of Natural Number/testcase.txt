@@ -1,0 +1,17 @@
+Enter Input: 5
+Sum = 15
+
+Enter Input: 6
+Sum = 21
+
+Enter Input: 7
+Sum = 28
+
+Enter Input: 8
+Sum = 36
+
+Enter Input: 9
+Sum = 45
+
+Enter Input: 100
+Sum = 5050
